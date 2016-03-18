@@ -1,0 +1,6 @@
+
+@mixin stilos($list,$style,$padding){
+list-style:$list;
+margin:$style;
+padding:$padding;
+}
